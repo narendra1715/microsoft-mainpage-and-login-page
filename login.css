@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: rgba(186, 138, 217, 0.38);
+}
+.container {
+  margin: 0 auto;
+  width: 420px;
+  height: 500px;
+  margin-top: 70px;
+  padding: 40px;
+}
+.signup_form {
+  padding: 50px;
+  background-color: white;
+  margin-bottom: 10px;
+  position: relative;
+  height: 250px;
+}
+.container .signup_form img {
+  width: 130px;
+  margin-bottom: 15px;
+}
+.container .signup_form h4 {
+  font-family: "Segoe UI", "Helvetica Neue", "Lucida Grande", "Roboto", "Ebrima",
+    "Nirmala UI", "Gadugi", "Segoe Xbox Symbol", "Segoe UI Symbol", "Meiryo UI",
+    "Khmer UI", "Tunga", "Lao UI", "Raavi", "Iskoola Pota", "Latha",
+    "Leelawadee", "Microsoft YaHei UI", "Microsoft JhengHei UI", "Malgun Gothic",
+    "Estrangelo Edessa", "Microsoft Himalaya", "Microsoft New Tai Lue",
+    "Microsoft PhagsPa", "Microsoft Tai Le", "Microsoft Yi Baiti",
+    "Mongolian Baiti", "MV Boli", "Myanmar Text", "Cambria Math";
+  font-size: 25px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+.container .signup_form input {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 90%;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.container .signup_form p {
+  margin-bottom: 15px;
+}
+.container .signup_form .next_btn {
+  border: 1px solid rgb(84, 84, 211);
+  border-radius: 2px;
+  background-color: rgb(84, 84, 211);
+  color: white;
+  padding: 5px;
+  width: 90px;
+  position: absolute;
+  left: 300px;
+  top: 270px;
+}
+.signin_option {
+  background-color: white;
+  padding: 15px;
+}
+.signin_option img {
+  margin-left: 30px;
+}
+.signin_option h4 {
+  float: right;
+  font-weight: 500;
+  font-size: 18px;
+  font-weight: 500;
+  font-size: 18px;
+  width: 310px;
+  margin-top: 7px;
+}
